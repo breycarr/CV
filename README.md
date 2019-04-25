@@ -1,10 +1,12 @@
 ## Ben Reynolds-Carr
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm an inquisitive and adaptable #Junior Developer#, looking for a role that lets me use my problem-solving skills proactively. 
+
+I worked for three years as a contractor in financial services and four years as an Human Resources Administrator in the not-for-profit sector, and my roles frequently had me exploring new software. Now I want a chance to be a part of an industry that provides people with creative solutions to their daily tasks. 
 
 ## Skills
 
-#### This Skill
+#### Investigation
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -26,7 +28,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Makers Academy (April 2019 to July 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
+- Fast, independent learner. While temping across several differenct companies, I've had the opportunity to learn many different pieces of HR information systems, including Cascade, ResourceLink and Sage, becoming proficient in a number of days. In my personal life, I play a lot of board games, and I'm able to quickly learn the mechanics of a game in order to explain them to others. 
 - Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
@@ -34,14 +36,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+#### Chartered Institute of Personnel and Development
+- Certificate in Human Resources Practice (Level 3), 2014
+- Certificate in Learning and Development Practice (Level 3), 2013
+
 #### University of Birmingham (September 2006 to August 2010)
 
 - BA (Hons) Modern Languages (German and Spanish)
 - 2:2
 - Spent 5 months studying in Seville, Spain and 5 months studying in Vienna, Austria
 - Captain of the University Rowing Team
-
-#### Any other qualifications
 
 ## Professional Experience
 
