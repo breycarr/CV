@@ -1,6 +1,6 @@
 ## Ben Reynolds-Carr
 
-I'm a #full stack developer# who is inquisitive and adaptable. I'm looking for a role that lets me use my problem-solving skills proactively. 
+I'm a full stack developer who is inquisitive and adaptable. I'm looking for a role that lets me use my problem-solving skills proactively. 
 
 I worked for three years as a contractor in financial services and four years as an Human Resources Administrator in the not-for-profit sector, and my roles frequently had me exploring new software. Now I want a chance to be a part of an industry that provides people with creative solutions to their daily tasks. 
 
@@ -52,21 +52,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **School of Oriental and African Studies, University of London** (January 2019 to April 2019)    
 *Recruitment and Operations Assistant*  
 **London Business School** (June 2018 to December 2018)   
-*Temporary Administrator* 
+*Temporary Administrator*  
 **Alandale Group of Companies** (September 2017 to May 2018)   
-*Group Human Resources Officer* 
+*Group Human Resources Officer*  
 **Diocese of Southwark** (July 2018 to August 2017)   
-*Temporary HR Administrator* 
+*Temporary HR Administrator*  
 **Girls' Day School Trust** (February 2017 to May 2017)   
-*HR Coordinator* 
+*HR Coordinator*  
 **Chartered Institue of Taxation/Association of Taxation Technicians** (September 2016 to January 2017)   
-*Interim HR Officer* 
+*Interim HR Officer*  
 **4Children** (June 2016 to September 2016)   
-*Interim HR Administrator* 
+*Interim HR Administrator*  
 **Friends of the Elderly** (May 2015 to June 2016)   
-*HR Administrator* 
+*HR Administrator*  
 **4Children** (February 2015 to March 2015)   
-*Interim HR Administrator* 
+*Interim HR Administrator*  
 **Contractor** (May 2011 to December 2014)   
 *Lloyds Banking Group* 
 
