@@ -1,6 +1,6 @@
 ## Ben Reynolds-Carr
 
-I'm an inquisitive and adaptable #Junior Developer#, looking for a role that lets me use my problem-solving skills proactively. 
+I'm a #full stack developer# who is inquisitive and adaptable. I'm looking for a role that lets me use my problem-solving skills proactively. 
 
 I worked for three years as a contractor in financial services and four years as an Human Resources Administrator in the not-for-profit sector, and my roles frequently had me exploring new software. Now I want a chance to be a part of an industry that provides people with creative solutions to their daily tasks. 
 
