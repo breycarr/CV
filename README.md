@@ -1,8 +1,6 @@
 ## Ben Reynolds-Carr
 
-I'm a full stack developer who is inquisitive and adaptable. I'm looking for a role that lets me use my problem-solving skills proactively. 
-
-I worked for three years as a contractor in financial services and four years as an Human Resources Administrator in the not-for-profit sector, and my roles frequently had me exploring new software. Now I want a chance to be a part of an industry that provides people with creative solutions to their daily tasks. 
+I'm a full stack developer. I worked for three years as a contractor in financial services and four years as a Human Resources Administrator in the not-for-profit sector, and my roles frequently had me exploring new software. Now I want a chance to be a part of an industry that lets me use my problem-solving skills proactively.
 
 ## Skills
 
@@ -28,7 +26,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Makers Academy (April 2019 to July 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner. While temping across several differenct companies, I've had the opportunity to learn many different pieces of HR information systems, including Cascade, ResourceLink and Sage, becoming proficient in a number of days. In my personal life, I play a lot of board games, and I'm able to quickly learn the mechanics of a game in order to explain them to others. 
+- Fast, independent learner. While temping across several differenct companies, I've had the opportunity to learn many different pieces of HR information systems, including Cascade, ResourceLink and Sage, becoming proficient in a number of days. In my personal life, I play a lot of social games, and I'm able to quickly learn the mechanics of a game in order to explain them to others. 
 - Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
