@@ -35,7 +35,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Agile/XP
 - Ruby, Rails, JavaScript, Python
 - RSpec, Jasmine, Pytest
-- 
 
 #### Chartered Institute of Personnel and Development
 - Certificate in Human Resources Practice (Level 3), 2014
