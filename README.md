@@ -1,10 +1,12 @@
 ## Ben Reynolds-Carr
 
-I'm a full stack developer. I worked for three years as a contractor in financial services and four years as a Human Resources Administrator in the not-for-profit sector, and my roles frequently had me exploring new software. Now I want a chance to be a part of an industry that lets me use my problem-solving skills proactively.
+I'm a full stack developer. I worked for three years as a contractor in financial services and four years as a Human Resources Administrator in the not-for-profit sector, and my roles frequently had me exploring new software. 
+
+Now I want a chance to be a part of an industry that lets me use my problem-solving skills proactively.
 
 ## Skills
 
-#### Investigation
+#### Communication
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +14,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Debugging
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -26,13 +28,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Makers Academy (April 2019 to July 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner. While temping across several differenct companies, I've had the opportunity to learn many different pieces of HR information systems, including Cascade, ResourceLink and Sage, becoming proficient in a number of days. In my personal life, I play a lot of social games, and I'm able to quickly learn the mechanics of a game in order to explain them to others. 
+- Fast, independent learner. I've had the opportunity to learn many different pieces of HR information systems, including Cascade, ResourceLink and Sage, becoming proficient in a number of days. In my personal life, I play a lot of social games, and I'm able to quickly learn the mechanics of a game in order to explain them to others. 
 - Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, Python
+- RSpec, Jasmine, Pytest
+- 
 
 #### Chartered Institute of Personnel and Development
 - Certificate in Human Resources Practice (Level 3), 2014
@@ -70,4 +73,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Interests
 
-I play board games, table top roleplaying games and video games with friends and my wife. I've got a kayaking qualification, and also enjoy boxing and weightlifting classes. I frequently take part in live action roleplaying events (LARP) throughout the UK and have helped run a couple of LARP events. I also enjoy travelling, with my most recent countries of call in the last couple of years Japan, Portugal and Canada.
+I play board games, table top roleplaying games and video games with friends and my wife. I've got a kayaking qualification, and also enjoy boxing and weightlifting. I frequently take part in live action roleplaying events (LARP) throughout the UK and have helped run a couple of LARP events. I also enjoy travelling, most recently travelling to Japan, Portugal and Canada in the last couple of years 
