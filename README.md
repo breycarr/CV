@@ -2,9 +2,9 @@
 
 I'm a full stack developer looking for a role that lets me use my problem-solving skills proactively.
 
-I worked for three years as a contractor in financial services and four years as a Human Resources Administrator in the not-for-profit sector, and my roles frequently had me exploring new software.
+Coming from a background in financial services and human resources, my roles frequently had me exploring new software. For the last year I have been teaching myself to code via online resources, culminating in my decision to join the selective Maker's Academy bootcamp
 
-Now I want a chance to be a part of an industry that lets me work on interesting new projects and continue to learn.
+I am now looking for a career that lets me work on interesting new projects and continue to learn.
 
 ## Projects
 
