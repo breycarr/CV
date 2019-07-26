@@ -66,17 +66,22 @@ A 12-week intensive development bootcamp, focusing on:
 
 **Interim Recruitment and Operations Assistant - School of Oriental and African Studies, University of London**  
 *(January 2019 to April 2019)*  
+
 **Temporary Administrator - London Business School**  
 *(June 2018 to December 2018)*  
+
 **Group Human Resources Officer - Alandale Group of Companies**  
 *(September 2017 to May 2018)*  
+
 **Interim Contracts as HR Administrator**  
 *(June 2016 to May 2017)*  
 Clients included:
 - Girls' Day School Trust   
 - Chartered Institute of Taxation/Association of Taxation Technicians  
+
 **HR Administrator - Friends of the Elderly**  
 *(May 2015 to June 2016)*  
+
 **Complaints Handler - Lloyds Banking Group**  
 *(May 2011 to December 2014)*
 
