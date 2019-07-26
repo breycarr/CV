@@ -28,7 +28,8 @@ I am now looking for a career that lets me work on interesting new projects and 
 
 - I started teaching myself to code in summer 2018, using Codecademy courses
 - Before the Makers Academy precourse began, I developed my own basic CLI projects, such as [Countdown](https://github.com/breycarr/countdown)
-- Throughout the Makers course, I learned how to apply object oriented programming processes, and adapt them across multiple languages. This was used effectively when my team and I learned Python and the Pytest framework in less than a week in order to develop software that took readings from a soil sensor and changed light colours based on the soil moisture.
+- Throughout the Makers course, I learned how to apply object oriented programming processes, and adapt them across multiple languages.
+- This was used effectively when my team and I learned Python and the Pytest framework in less than a week in order to develop software that took readings from a soil sensor and changed light colours based on the soil moisture.
 - In my personal life, I play a lot of social games, and I'm able to quickly learn the mechanics of a game in order to explain them to others.
 
 #### Methodical approach to problem solving and debugging
@@ -65,21 +66,32 @@ A 12-week intensive development bootcamp, focusing on:
 
 **School of Oriental and African Studies, University of London** (January 2019 to April 2019)    
 *Interim Recruitment and Operations Assistant*  
+- Supported an ongoing academic promotion process
 **London Business School** (June 2018 to December 2018)   
 *Temporary Administrator*  
+ - Organised, uploaded to, monitored and extracted data from Microsoft Dynamics CSM and iTrent.
 **Alandale Group of Companies** (September 2017 to May 2018)   
 *Group Human Resources Officer*  
+ - Collected and analysed HR data and provided reports for the Group Head of HR.
 **Interim Contracts as HR Administrator** (June 2016 to May 2017)
 
 Clients included:
- - Girls' Day School Trust   
- - Chartered Institute of Taxation/Association of Taxation Technicians   
+- Girls' Day School Trust   
+- Chartered Institute of Taxation/Association of Taxation Technicians   
 
 **Friends of the Elderly** (May 2015 to June 2016)   
 *HR Administrator*  
+- Prepared contract documents and input employee data onto both Carval and HR Select and Access systems, during a parallel testing period
+- Implemented a digital Disclosure and Barring Service check service through UKCRBS, including selection and negotiation with the service provider, and organising training sessions for new users
 **Contractor** (May 2011 to December 2014)   
 *Lloyds Banking Group*
+- Proficient with bespoke administration software. Tested new systems for proof of concept testing and aided in developing guidance for use with new systems
+- Established good working relationship with 400 new starters to the project
 
 ## Interests
 
-I play board games, table top roleplaying games and video games with friends and my wife. I've got a kayaking qualification, and also enjoy boxing and weightlifting. I frequently take part in live action roleplaying events (LARP) throughout the UK and have helped run a couple of LARP events. I also enjoy travelling, most recently travelling to Japan, Portugal and Canada in the last couple of years
+I play board games, table top roleplaying games and video games with friends and my wife. I've got a kayaking qualification, and also enjoy boxing and weightlifting.
+
+I frequently take part in live action roleplaying events (LARP) throughout the UK and have helped run a couple of LARP events.
+
+I also enjoy travelling, most recently travelling to Japan, Portugal and Canada in the last couple of years
