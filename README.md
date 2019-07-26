@@ -75,6 +75,7 @@ A 12-week intensive development bootcamp, focusing on:
 
 **Interim Contracts as HR Administrator**
 *(June 2016 to May 2017)*
+
 Clients included:
 - Girls' Day School Trust   
 - Chartered Institute of Taxation/Association of Taxation Technicians   
