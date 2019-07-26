@@ -18,31 +18,30 @@ I am now looking for a career that lets me work on interesting new projects and 
 
 ## Skills
 
-#### Problem Solving and logical thinking
+#### Great communicator and collaborator.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Debugging
-- Effective at understanding and finding solutions to error messages during debugging
-- Created a [language agnostic debugging process diagram](https://github.com/breycarr/misc_files/blob/master/Debugging%20Process.jpg)
-
-#### Communication
-
+- During Makers I made sure I was being an effective and communicative pair partner and team member by sharing what I was working on throughout the day and making my team aware of anything new and useful that I had learned. I also made sure to clearly communicate potential blockers, as well as those that came up throughout the day
 - As an HR professional, I was responsible for communicating policy information across businesses from operations to top level management
 - I completed a one day Communication Skills Course with Impact Factory in April 2017, with a focus on active listening and conflict resolution
+
+#### Fast, independent learner
+
+- I started teaching myself to code in summer 2018, using Codecademy courses
+- Before the Makers Academy precourse began, I developed my own basic CLI projects, such as [Countdown](https://github.com/breycarr/countdown)
+- Throughout the Makers course, I learned how to apply object oriented programming processes, and adapt them across multiple languages. This was used effectively when my team and I learned Python and the Pytest framework in less than a week in order to develop software that took readings from a soil sensor and changed light colours based on the soil moisture.
+- In my personal life, I play a lot of social games, and I'm able to quickly learn the mechanics of a game in order to explain them to others.
+
+#### Methodical approach to problem solving and debugging
+
+- I'm effective at understanding and finding solutions to error messages during TDD and debugging, and understanding the reasons why errors occur.
+- In order to have a clear process, I created a [language agnostic debugging process diagram](https://github.com/breycarr/misc_files/blob/master/Debugging%20Process.jpg), which focuses on gaining visibility of the issue and closing the loop on where it occurs.
+- During my final project at Makers Academy, I applied this process to [debugging hardware](https://medium.com/@makers_c_a_c_t_u_s/debugging-hardware-by-ben-82c38ada24bc)
 
 ## Education
 
 #### Makers Academy (April 2019 to July 2019)
 
-- Curious and passionate about code.
-- Fast, independent learner. Throughout the Makers course, I learned how to apply object oriented programming processes, and adapt them across multiple languages. This was used effectively when I learned Python and the Pytest framework in less than a week in order to develop software that took readings from a soil sensor and changed light colours based on the soil moisture. In my personal life, I play a lot of board games, and I'm able to quickly learn the mechanics of a game in order to explain them to others.
-- Great collaborator
+A 12-week intensive development bootcamp, focusing on:
 
 - OOP, TDD, MVC
 - Agile methodologies (Scrum and Kanban)
@@ -51,6 +50,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine, Pytest
 
 #### Chartered Institute of Personnel and Development
+
 - Certificate in Human Resources Practice (Level 3), 2014
 - Certificate in Learning and Development Practice (Level 3), 2013
 
@@ -70,9 +70,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Alandale Group of Companies** (September 2017 to May 2018)   
 *Group Human Resources Officer*  
 **Interim Contracts as HR Administrator** (June 2016 to May 2017)
+
 Clients included:
  - Girls' Day School Trust   
  - Chartered Institute of Taxation/Association of Taxation Technicians   
+
 **Friends of the Elderly** (May 2015 to June 2016)   
 *HR Administrator*  
 **Contractor** (May 2011 to December 2014)   
