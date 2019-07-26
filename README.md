@@ -2,9 +2,11 @@
 
 I'm a full stack developer looking for a role that lets me use my problem-solving skills proactively.
 
-Coming from a background in financial services and human resources, my roles frequently had me exploring new software. For the last year I have been teaching myself to code via online resources, culminating in my decision to join the selective Maker's Academy bootcamp
+Coming from a background in financial services and human resources, my roles frequently had me exploring new software. For the last year I have been teaching myself to code via online resources, culminating in my decision to join the selective Maker's Academy bootcamp.
 
-I am now looking for a career that lets me work on interesting new projects and continue to learn.
+I bring experience working with people across different departments and levels, having learned to effectively communicate and collaborate, including difficult company changes. This combined with my ability to solve problems in innovative ways and initiate new processes will make me an efficient coder who works with different areas of your company.   
+
+I am looking for a career that lets me work on interesting new projects and continue to learn.
 
 ## Projects
 
@@ -18,11 +20,11 @@ I am now looking for a career that lets me work on interesting new projects and 
 
 ## Skills
 
-#### Great communicator and collaborator.
+#### Methodical approach to problem solving and debugging
 
-- During Makers I made sure I was being an effective and communicative pair partner and team member by sharing what I was working on throughout the day and making my team aware of anything new and useful that I had learned. I also made sure to clearly communicate potential blockers, as well as those that came up throughout the day
-- As an HR professional, I was responsible for communicating policy information across businesses from operations to top level management
-- I completed a one day Communication Skills Course with Impact Factory in April 2017, with a focus on active listening and conflict resolution
+- I'm effective at understanding and finding solutions to error messages during TDD and debugging, and understanding the reasons why errors occur.
+- In order to have a clear process, I created a [language agnostic debugging process diagram](https://github.com/breycarr/misc_files/blob/master/Debugging%20Process.jpg), which focuses on gaining visibility of the issue and closing the loop on where it occurs.
+- During my final project at Makers Academy, I applied this process to [debugging hardware](https://medium.com/@makers_c_a_c_t_u_s/debugging-hardware-by-ben-82c38ada24bc)
 
 #### Fast, independent learner
 
@@ -31,12 +33,19 @@ I am now looking for a career that lets me work on interesting new projects and 
 - Throughout the Makers course, I learned how to apply object oriented programming processes, and adapt them across multiple languages.
 - This was used effectively when my team and I learned Python and the Pytest framework in less than a week in order to develop software that took readings from a soil sensor and changed light colours based on the soil moisture.
 - In my personal life, I play a lot of social games, and I'm able to quickly learn the mechanics of a game in order to explain them to others.
+- Able to quickly adapt to new technologies. During my HR career, I was often part of the team running parallel testing and rolling out new software.
 
-#### Methodical approach to problem solving and debugging
+#### Great communicator and collaborator.
 
-- I'm effective at understanding and finding solutions to error messages during TDD and debugging, and understanding the reasons why errors occur.
-- In order to have a clear process, I created a [language agnostic debugging process diagram](https://github.com/breycarr/misc_files/blob/master/Debugging%20Process.jpg), which focuses on gaining visibility of the issue and closing the loop on where it occurs.
-- During my final project at Makers Academy, I applied this process to [debugging hardware](https://medium.com/@makers_c_a_c_t_u_s/debugging-hardware-by-ben-82c38ada24bc)
+- During Makers I made sure I was being an effective and communicative pair partner and team member by sharing what I was working on throughout the day and making my team aware of anything new and useful that I had learned. I also made sure to clearly communicate potential blockers, as well as those that came up throughout the day
+- As an HR professional, I was responsible for communicating policy information across businesses from operations to top level management
+- I completed a one day Communication Skills Course with Impact Factory in April 2017, with a focus on active listening and conflict resolution
+
+#### Adapts quickly to new processes
+
+- As a temporary HR administrator, I was expected to learn company policies and processes and be able to explain them to others in a short period of time.
+- During Makers I learned and effectively used Test Driven Development across my projects.
+- While I was a complaint handler with Lloyd's Banking Group, I was part of the learning and development team rolling out new processes to over 400 new starters over 6 months.
 
 ## Education
 
