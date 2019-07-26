@@ -14,6 +14,7 @@ I am now looking for a career that lets me work on interesting new projects and 
 | [Acebook](https://github.com/samkitchen94/acebook-rails-amoeba-boyz) | A team project to build a Facebook clone with continuous integration and deployment | Ruby, Rails, ActiveRecord, HTML, CSS, Heroku, Travis CI, RSpec, Capybara |
 | [Notes](https://github.com/breycarr/notes) | A team project in which our task was to write a pure JavaScript app with no libraries and a custom built testing framework. The single page web app takes and displays notes | JavaScript, HTML |
 | [RPS Challenge](https://github.com/breycarr/rps-challenge) | An independent project to build a simple Rock-Paper-Scissors web app | Ruby, RSpec, Capybara, Sinatra |
+| [Countdown](https://github.com/breycarr/countdown) | A personal project to write a program that creates and solves shuffled letter puzzles | Ruby |
 
 ## Skills
 
@@ -33,20 +34,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Communication
 
 - As an HR professional, I was responsible for communicating policy information across businesses from operations to top level management
-- I completed a one day Communication Skills Course with Impact Factory in April 2017
+- I completed a one day Communication Skills Course with Impact Factory in April 2017, with a focus on active listening and conflict resolution
 
 ## Education
 
 #### Makers Academy (April 2019 to July 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
+- Curious and passionate about code.
 - Fast, independent learner. Throughout the Makers course, I learned how to apply object oriented programming processes, and adapt them across multiple languages. This was used effectively when I learned Python and the Pytest framework in less than a week in order to develop software that took readings from a soil sensor and changed light colours based on the soil moisture. In my personal life, I play a lot of board games, and I'm able to quickly learn the mechanics of a game in order to explain them to others.
-- Great collaborator [PROVIDE EVIDENCE]
+- Great collaborator
 
 - OOP, TDD, MVC
 - Agile methodologies (Scrum and Kanban)
 - XP Values
-- Ruby, Rails, JavaScript, Python
+- Ruby, Rails, JavaScript, Python, Sinatra
 - RSpec, Jasmine, Pytest
 
 #### Chartered Institute of Personnel and Development
@@ -63,23 +64,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Professional Experience
 
 **School of Oriental and African Studies, University of London** (January 2019 to April 2019)    
-*Recruitment and Operations Assistant*  
+*Interim Recruitment and Operations Assistant*  
 **London Business School** (June 2018 to December 2018)   
 *Temporary Administrator*  
 **Alandale Group of Companies** (September 2017 to May 2018)   
 *Group Human Resources Officer*  
-**Diocese of Southwark** (July 2018 to August 2017)   
-*Temporary HR Administrator*  
-**Girls' Day School Trust** (February 2017 to May 2017)   
-*HR Coordinator*  
-**Chartered Institue of Taxation/Association of Taxation Technicians** (September 2016 to January 2017)   
-*Interim HR Officer*  
-**4Children** (June 2016 to September 2016)   
-*Interim HR Administrator*  
+**Interim Contracts as HR Administrator** (June 2016 to May 2017)
+Clients included:
+ - Girls' Day School Trust   
+ - Chartered Institute of Taxation/Association of Taxation Technicians   
 **Friends of the Elderly** (May 2015 to June 2016)   
 *HR Administrator*  
-**4Children** (February 2015 to March 2015)   
-*Interim HR Administrator*  
 **Contractor** (May 2011 to December 2014)   
 *Lloyds Banking Group*
 
