@@ -67,12 +67,15 @@ A 12-week intensive development bootcamp, focusing on:
 **School of Oriental and African Studies, University of London** (January 2019 to April 2019)    
 *Interim Recruitment and Operations Assistant*  
 - Supported an ongoing academic promotion process
+
 **London Business School** (June 2018 to December 2018)   
 *Temporary Administrator*  
  - Organised, uploaded to, monitored and extracted data from Microsoft Dynamics CSM and iTrent.
+
 **Alandale Group of Companies** (September 2017 to May 2018)   
 *Group Human Resources Officer*  
  - Collected and analysed HR data and provided reports for the Group Head of HR.
+
 **Interim Contracts as HR Administrator** (June 2016 to May 2017)
 
 Clients included:
@@ -83,6 +86,7 @@ Clients included:
 *HR Administrator*  
 - Prepared contract documents and input employee data onto both Carval and HR Select and Access systems, during a parallel testing period
 - Implemented a digital Disclosure and Barring Service check service through UKCRBS, including selection and negotiation with the service provider, and organising training sessions for new users
+
 **Contractor** (May 2011 to December 2014)   
 *Lloyds Banking Group*
 - Proficient with bespoke administration software. Tested new systems for proof of concept testing and aided in developing guidance for use with new systems
